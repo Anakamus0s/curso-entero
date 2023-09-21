@@ -1,0 +1,18 @@
+h1 {
+    text-align: center;
+    text-decoration: underline;
+    
+}
+
+div.anchor {
+    text-align: center;
+}
+
+div.float {
+    float: left;
+    margin: 10px;
+}
+
+ol {
+    text-align: center;
+}
